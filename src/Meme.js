@@ -9,12 +9,13 @@ const Meme = () => {
     })
 
     const handleSubmit = (e) => {
+        let allimgs;
         e.preventDefault()
         console.log("Submit button is clicked")
         const num = allimgs.length
         console.log(num)
 
-        // allimgs[0]
+        allimgs[0]
     }
 
     const handleChange = (e) => {
