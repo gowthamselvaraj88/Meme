@@ -72,7 +72,7 @@ const Meme = () => {
 
             <div>
                 <h2>{InputText.firsttextbox}</h2>
-                <img src={randomimg.url}/>
+                <img src={randomimg.url} alt="meme images"/>
                 <h2>{InputText.secondtextbox}</h2>
             </div>
            
