@@ -14,7 +14,7 @@ const Meme = () => {
         const num = allimgs.length
         console.log(num)
 
-        allimgs[0]
+        // allimgs[0]
     }
 
     const handleChange = (e) => {
